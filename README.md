@@ -1,5 +1,5 @@
 # algorithms_and_data_structures
-[MicroMasters Program in Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) on edX, UCSanDiegoX
+[MicroMasters Program in Algorithms and Data Structures](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures) on edX
 
 # Courses in this program
 1. [Algorithmic Design and Techniques](https://www.edx.org/course/algorithmic-design-and-techniques)
